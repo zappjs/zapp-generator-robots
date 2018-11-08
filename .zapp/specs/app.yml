@@ -1,0 +1,6 @@
+name: '@zappjs/generator-robots'
+title: Robots.txt Generator
+version: 0.1.0
+description: generates a robots.txt file
+copyright: 2018 ZappJS
+license: apache-2.0

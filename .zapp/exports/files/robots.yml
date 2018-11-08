@@ -1,0 +1,7 @@
+filename: src/static/robots.txt
+engine: handlebars
+template: robots
+mapping:
+  allow: /webcrawlers/allow
+  disallow: /webcrawlers/disallow
+  userAgent: /webcrawlers/userAgent
